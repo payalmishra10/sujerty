@@ -1,1 +1,1 @@
-# sujerty
+# CHECKING SCRIPT
